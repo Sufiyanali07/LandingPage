@@ -19,10 +19,10 @@ const HeroSection = () => {
 
       {/* Hero Content */}
       <div className="z-10 px-6 pb-10 md:pb-16 w-full max-w-[90%] md:max-w-[70%]">
-        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white drop-shadow-lg">
+        <h1 className=" font-serif text-4xl sm:text-5xl md:text-6xl font-bold text-white drop-shadow-lg">
           Build Smarter. Scale Faster.
         </h1>
-        <p className="mt-3 text-lg sm:text-xl text-gray-300">
+        <p className=" font-serif mt-3 text-lg sm:text-xl text-gray-300">
           Unlock the power of seamless digital experiences.
         </p>
 

@@ -3,7 +3,7 @@ import React from "react";
 const PricingTable = () => {
   return (
     <div className="p-6">
-      <h2 className=" uppercase text-5xl font-bold text-center text-white/80">
+      <h2 className=" font-serif text-5xl font-bold text-center text-white">
         Pricing Plans
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-4">

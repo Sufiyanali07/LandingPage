@@ -51,7 +51,9 @@ const App = () => {
         <ContactForm />
       </Suspense>
       <div className="mt-8 p-6 bg-gradient-to-br from-gray-950 via-gray-900 to-gray-800 shadow-lg rounded-lg">
-        <h2 className="text-2xl font-bold text-white mb-4">Search Users</h2>
+        <h2 className="text-3xl font-bold text-white mb-4 font-serif">
+          Search Users
+        </h2>
         <input
           type="text"
           placeholder="Search Users..."

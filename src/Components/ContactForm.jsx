@@ -14,7 +14,7 @@ const ContactForm = () => {
   return (
     <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-gray-950 via-gray-900 to-gray-800">
       <div className="bg-black p-8 rounded-2xl shadow-xl w-full max-w-lg">
-        <h2 className="text-3xl font-bold text-gray-100 text-center">
+        <h2 className=" font-serif text-3xl font-bold text-gray-100 text-center">
           Contact Us
         </h2>
 
